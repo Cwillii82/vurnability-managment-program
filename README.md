@@ -1,1 +1,1 @@
-# vulnerability-managment-program
+# vulnerability-management-program
